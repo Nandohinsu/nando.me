@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=N%C3%A3o+%C3%A9+a+linguagem+de+programa%C3%A7%C3%A3o+que+define+o+programador%2C+mas+sim+sua+l%C3%B3gica.)](https://git.io/typing-svg)
